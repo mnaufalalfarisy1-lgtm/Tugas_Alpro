@@ -1,6 +1,4 @@
-package Tugas_Alpro;
 import java.util.Scanner;
-
 public class hitunggaji {
     public static double hitungTunjangan(double gajiKotor, int jumlahAnak) {
         double tunjangan;
